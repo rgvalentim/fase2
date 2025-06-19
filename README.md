@@ -57,18 +57,16 @@ As seguintes funcionalidades e melhorias foram implementadas na Fase 2:
 A estrutura do projeto, com a adição da nova página `cadastro.html`, é a seguinte:
 
 ├── index.html
+
 ├── frutas.html
+
 ├── alimentos.html
+
 ├── higiene.html
+
 ├── servicos.html
+
 ├── cadastro.html             <- NOVA PÁGINA
-├── logo.png                  (Recurso de imagem)
-├── arroz.jpg                 (Recurso de imagem)
-├── chuchu.jpg                (Recurso de imagem)
-├── feijao.jpg                (Recurso de imagem)
-├── maca.jpg                  (Recurso de imagem)
-├── papel.jpg                 (Recurso de imagem)
-└── sabonete.jpg              (Recurso de imagem)
 
 ## Como Executar
 

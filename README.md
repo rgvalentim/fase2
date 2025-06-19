@@ -1,4 +1,4 @@
-# Projeto Minimercado Web - Fase 2: Dinamismo e Interatividade
+# Projeto Minimercado Web - Fase 2: Dinamismo e Interatividade no HTML
 
 Este repositório apresenta as implementações e melhorias realizadas na Fase 2 do sistema web do Minimercado, que segue o desenvolvimento iniciado na Fase 1. O foco desta etapa foi tornar o sistema mais atrativo e dinâmico, além de incluir funcionalidades essenciais como cadastro de clientes e agendamento de serviços.
 
